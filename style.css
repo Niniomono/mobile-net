@@ -1,0 +1,54 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px red;
+  }
+  .heading_div
+  {
+    font-size:20px;
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: red;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 30px ;
+  }
+  .heading_div3
+  {
+    font-size: 30px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px palegoldenrod;
+    font-size: 20px;
+  }
+.result_para_tag span {
+  white-space:pre-line;
+}
+#a {
+  color:darkgreen;
+  font-size: 30px;
+}
+#e {
+  color:darkgreen;
+  font-size:30px;
+}
+.copy_right_footer {
+  position:fixed;
+  bottom: 0;
+  color: greenyellow;
+  background-color: blueviolet;
+  width: 100%;
+  text-align: center;
+}
+canvas {
+  border: 5px solid darksalmon;
+  margin-top:160px;
+  box-shadow:5px 5px 5px crimson;
+  border-radius: 20px;
+  background-color:cornflowerblue;
+}
